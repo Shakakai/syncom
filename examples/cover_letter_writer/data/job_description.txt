@@ -1,0 +1,41 @@
+Job Description: Junior Full Stack Web Developer
+Company: Acme Tech
+Location: Tech City, USA
+Position Type: Full-time
+Posted Date: [Insert Date]
+Application Deadline: [Insert Date]
+
+Company Overview:
+Acme Tech is a leading innovator in the tech industry, dedicated to developing cutting-edge solutions that drive progress and efficiency. With a focus on web development, cloud computing, and AI technologies, we strive to empower businesses and individuals worldwide. Our team of experts collaborates in a dynamic, supportive environment to deliver high-quality software products that meet the evolving needs of our users.
+
+Position Overview:
+We are seeking a motivated and talented Junior Full Stack Web Developer to join our team. This role involves working on various projects, from concept to completion, in collaboration with other developers and stakeholders. The ideal candidate is a problem-solver with a passion for technology and a keen interest in learning new skills.
+
+Key Responsibilities:
+
+Participate in the full software development lifecycle, including design, development, testing, and deployment.
+Develop and maintain web applications using front-end and back-end technologies.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Ensure code quality, organization, and automatization.
+Stay updated with the latest industry trends and technologies.
+Required Skills and Qualifications:
+
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Proficiency in front-end technologies, including HTML5, CSS3, JavaScript, and frameworks such as React or Angular.
+Experience with back-end development using Node.js, Express, Python, or Ruby on Rails.
+Familiarity with database technology such as MySQL, MongoDB, or PostgreSQL.
+Understanding of RESTful APIs and web service integration.
+Experience with version control tools, preferably Git.
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities.
+Preferred Qualifications:
+
+Knowledge of cloud services (AWS, Azure, or Google Cloud).
+Experience with containerization technologies (Docker, Kubernetes).
+Familiarity with Agile development methodologies.
+Any relevant certifications in web development or related fields.
+Why Acme Tech?
+At Acme Tech, you'll be part of a creative, forward-thinking team that values innovation and collaboration. We offer competitive salaries, comprehensive benefits, and opportunities for professional growth and development. Join us in shaping the future of technology.
+
+How to Apply:
+Please submit your resume, cover letter, and any relevant portfolio or GitHub links to careers@acmetech.com with the subject line "Junior Full Stack Web Developer Application".

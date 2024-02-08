@@ -1,0 +1,80 @@
+[build-system]
+requires = ['hatchling', 'hatch-fancy-pypi-readme>=22.5.0']
+build-backend = 'hatchling.build'
+
+[tool.hatch.version]
+path = 'syncom/version.py'
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.sdist]
+include = [
+    '/README.md',
+    '/HISTORY.md',
+    '/Makefile',
+    '/tests',
+    '/requirements',
+]
+
+[project]
+name = 'syncom'
+description = 'LLM Workflows'
+authors = [
+    {name = 'Todd Cullen', email = 'culltp1@gmail.com'},
+]
+license = 'MIT'
+classifiers = [
+    'Development Status :: 5 - Production/Stable',
+    'Programming Language :: Python',
+    'Programming Language :: Python :: Implementation :: CPython',
+    'Programming Language :: Python :: Implementation :: PyPy',
+    'Programming Language :: Python :: 3',
+    'Programming Language :: Python :: 3 :: Only',
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
+    'Programming Language :: Python :: 3.11',
+    'Programming Language :: Python :: 3.12',
+    'Intended Audience :: Developers',
+    'Intended Audience :: Information Technology',
+    'Intended Audience :: System Administrators',
+    'License :: OSI Approved :: MIT License',
+    'Operating System :: Unix',
+    'Operating System :: POSIX :: Linux',
+    'Environment :: Console',
+    'Environment :: MacOS X',
+    'Topic :: Software Development :: Libraries :: Python Modules',
+    'Topic :: Internet',
+]
+requires-python = '>=3.9'
+dependencies = [
+    "instructor>=0.4.8",
+    "litellm>=1.21.1",
+    "django>=4.2.9",
+]
+dynamic = ['version', 'readme']
+
+[tool.pdm.dev-dependencies]
+docs = [
+    "autoflake",
+    "tomli",
+    "pyupgrade",
+    "pytest-examples>=0.0.10",
+]
+linting = [
+    "mypy~=1.1.1",
+]
+testing = [
+    "pytest",
+]
+mypy = [
+    "mypy",
+]
+
+[project.urls]
+Homepage = 'https://github.com/Shakakai/syncom'
+Documentation = 'https://github.com/Shakakai/syncom'
+Funding = 'https://github.com/sponsors/Shakakai'
+Source = 'https://github.com/Shakakai/syncom'
+Changelog = 'https://github.com/Shakakai/syncom'
